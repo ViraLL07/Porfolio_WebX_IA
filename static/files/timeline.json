@@ -1,0 +1,22 @@
+[
+  {
+    "year": "2023",
+    "events": [
+      {
+        "icon": "work",
+        "title": "Packt Internship",
+        "content": " Worked in real time projects along with stastistical reports and discussed key points regarding it which included 4 projects that is House Price Prediction, Customer Segmentation, Forest Fire Analysis, and Titanic Dataset."
+      }
+    ]
+  },
+  {
+    "year": "2022",
+    "events": [
+      {
+        "icon": "work",
+        "title": "Info Tech Internship",
+        "content": " Worked in real time projects along with stastistical reports and discussed key points regarding it which included 4 projects that is House Price Prediction, Customer Segmentation, Forest Fire Analysis, and Titanic Dataset."
+      }
+    ]
+  }
+]
